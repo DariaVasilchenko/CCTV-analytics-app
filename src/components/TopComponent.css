@@ -1,0 +1,16 @@
+.top {
+    display: flex;
+    height: 50px;
+    align-items: center;
+}
+
+.exit {
+    margin-left: auto;
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    height: 50px;
+}

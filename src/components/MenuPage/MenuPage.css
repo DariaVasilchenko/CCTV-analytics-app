@@ -1,0 +1,12 @@
+.menu {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: space-around;
+    height: 150px;
+    width: 300px;
+}
+
+.menuBox {
+    justify-content: center;
+}

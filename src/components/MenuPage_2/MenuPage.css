@@ -1,0 +1,8 @@
+.menu {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: space-around;
+    height: 200px;
+    width: 300px;
+}
