@@ -24,7 +24,6 @@
     <li><a href="#AJAX-запросы">AJAX запросы</a></li>
     <li><a href="#Интерфейс">Интерфейс</a></li>
     <li><a href="#Документация">Документация</a></li>
-    <li><a href="#Контакты">Контакты</a></li>
   </ol>
 
 
@@ -131,12 +130,5 @@
 ## Документация
 По результатам работы над проектом разработаны 
 [методические указания по запуску и развертыванию модели машинного обучения в браузере с использованием ONNX YOLOv7 в TypeScript](https://github.com/DariaVasilchenko/CCTV-analytics-app/tree/main/onnx_yolov7_ts_example)
-
-<p align="right">(<a href="#Содержание">К содержанию</a>)</p>
-
-## Контакты
-Дарья Васильченко - vasilchenkodd@gmail.com
-
-Ссылка на проект: https://github.com/DariaVasilchenko/CCTV-analytics-app
 
 <p align="right">(<a href="#Содержание">К содержанию</a>)</p>
